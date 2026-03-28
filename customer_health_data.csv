@@ -1,0 +1,27 @@
+account_name,arr,renewal_date,days_to_renewal,license_utilization_percent,support_tickets_last_90_days,high_severity_tickets_last_90_days,product_adoption_score,executive_engagement_score,nps_score,login_frequency_score,training_completion_percent,open_escalations,region,csm_name,health_score,expansion_opportunity_flag
+Apex Financial,185000,2026-05-20,54,38,14,3,42,30,4,35,22,2,North America,Mark,41,Yes
+BluePeak Health,240000,2026-08-15,141,76,4,0,79,72,8,81,64,0,North America,Sarah,78,No
+Crestline Manufacturing,120000,2026-06-10,75,49,10,2,51,40,5,44,31,1,EMEA,John,48,No
+Delta Grid Systems,310000,2026-09-30,187,88,3,0,84,77,9,86,73,0,North America,Amy,85,Yes
+Everstone Retail,95000,2026-05-05,39,29,16,4,33,25,3,28,18,3,APAC,Lisa,32,No
+FusionWare,420000,2026-07-22,117,61,8,1,66,58,7,62,55,1,North America,Chris,64,Yes
+Greenfield Energy,275000,2026-04-28,32,35,18,5,39,22,3,30,20,4,EMEA,David,34,No
+Horizon Logistics,150000,2026-10-12,199,82,2,0,81,75,9,84,70,0,North America,Emily,82,Yes
+Ionix Tech,360000,2026-06-30,95,55,9,2,60,48,6,58,45,2,APAC,Raj,58,Yes
+Jetstream Media,110000,2026-05-18,52,41,13,3,47,35,5,39,27,2,North America,Nina,45,No
+Keystone Banking,500000,2026-08-01,127,90,2,0,88,80,9,89,78,0,North America,Alex,88,Yes
+Luma Healthcare,210000,2026-04-20,24,27,20,6,30,18,2,22,15,5,EMEA,Sarah,28,No
+MetroBuild Corp,175000,2026-07-05,100,58,7,1,63,52,6,60,49,1,APAC,Kevin,61,Yes
+Nova Retail Group,130000,2026-06-01,66,44,11,2,50,38,5,46,33,2,North America,Laura,47,No
+OmniCloud Services,600000,2026-09-10,167,92,1,0,91,85,10,90,82,0,North America,Jason,91,Yes
+Pioneer Manufacturing,220000,2026-05-25,59,37,15,4,41,28,4,33,24,3,EMEA,Mark,40,No
+Quantum Analytics,480000,2026-07-18,113,79,5,1,75,70,8,77,68,1,North America,Sophia,76,Yes
+Redwood Systems,140000,2026-06-12,77,52,9,2,57,45,6,55,41,1,APAC,Daniel,55,No
+Summit Financial,330000,2026-08-28,154,85,3,0,83,76,9,82,72,0,North America,Olivia,84,Yes
+Titan Energy,260000,2026-05-02,36,31,17,5,35,20,3,27,19,4,EMEA,James,33,No
+UrbanTech Solutions,190000,2026-06-25,90,60,8,1,65,55,7,63,50,1,North America,Ethan,62,Yes
+Vertex Pharma,410000,2026-07-30,125,87,2,0,86,79,9,88,74,0,North America,Mia,86,Yes
+Westbridge Retail,125000,2026-05-12,46,40,12,3,46,34,5,42,29,2,APAC,Noah,44,No
+Xenon Security,550000,2026-09-20,177,93,1,0,92,88,10,91,85,0,North America,Liam,92,Yes
+YieldWorks,160000,2026-06-08,73,48,10,2,53,42,6,50,36,2,EMEA,Ava,52,No
+Zenith Logistics,300000,2026-08-05,131,81,4,0,80,73,8,79,67,0,North America,Lucas,80,Yes
