@@ -29,16 +29,22 @@ def generate_next_best_actions(row):
 
     if row["license_utilization_percent"] < 50:
         actions.append("- Schedule a product adoption review to improve utilization.")
+
     if row["support_tickets_last_90_days"] > 10:
         actions.append("- Review support case trends and unresolved issues with Support leadership.")
+
     if row["high_severity_tickets_last_90_days"] > 2:
         actions.append("- Escalate product stability concerns and confirm mitigation plan.")
+
     if row["nps_score"] <= 5:
         actions.append("- Conduct a customer sentiment check-in with the account team.")
+
     if row["days_to_renewal"] < 60:
         actions.append("- Launch a renewal readiness plan immediately.")
+
     if row["training_completion_percent"] < 30:
         actions.append("- Recommend targeted training to improve user adoption.")
+
     if row["open_escalations"] > 2:
         actions.append("- Resolve active escalations before renewal discussions.")
 
@@ -66,6 +72,6 @@ Here are a few areas we’d like to cover:
 
 Please let us know a good time to connect over the next week.
 
-Best,
+Best,  
 {row['csm_name']}
 """.strip()
